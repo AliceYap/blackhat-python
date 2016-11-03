@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 import sys
 import socket
 import getopt
